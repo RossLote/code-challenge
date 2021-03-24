@@ -4,9 +4,13 @@ Welcome to our coding challenge for a frontend engineering position.
 
 Please take as long as you wish to complete this task. It should take you no longer than 3-4 hours to complete but feel free to take longer if you want to add some flare.
 
-Fork this project on github and send us a link to the repository when you are finished.
-
 Please make lots of commits as you go so that we can see how the project evolves.
+
+### Getting started
+Fork this project on github and push all code to the forked repository
+
+### Tech stack
+Use which ever frameworks and libraries you like. This is a purely frontend project so don't worry about building a backend for it.
 
 ## The challenge
 Build a image slide show editor and player. 
@@ -37,4 +41,10 @@ If you finish all of the above and you fancy adding a few finishing touches you 
 - Ability to delete slides
 - Nice transition effect between slides
 - Any extra feature you can think of...have fun!
+
+### What next?
+Once you have completed the challenge, complete the usage instructions below and send us a link to your repository.
+
+### Usage instructions
+*Write some instructions as to how to install and run the project here.*
 
