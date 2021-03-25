@@ -13,7 +13,7 @@ Fork this project on github and push all code to the forked repository
 Use which ever frameworks and libraries you like. This is a purely frontend project so don't worry about building a backend for it.
 
 ## The challenge
-Build a image slide show editor and player. 
+Build an image slide show editor and player. 
 
 Use the following design as a base for the project.
 ![slideshow](https://user-images.githubusercontent.com/1877650/112300374-aec11200-8c90-11eb-9234-00678fe30e4e.png)
@@ -43,7 +43,7 @@ If you finish all of the above and you fancy adding a few finishing touches you 
 - Any extra feature you can think of...have fun!
 
 ### What next?
-Once you have completed the challenge, complete the usage instructions below and send us a link to your repository.
+Once you have completed the challenge, fill in the usage instructions below and send us a link to your repository.
 
 ### Usage instructions
 *Write some instructions as to how to install and run the project here.*
